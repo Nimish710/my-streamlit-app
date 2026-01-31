@@ -10,12 +10,12 @@ import os
 # -----------------------------
 # PATHS
 # -----------------------------
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))      # F:/CowBreedAI/app
-ROOT_DIR = os.path.dirname(BASE_DIR)                       # F:/CowBreedAI
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))      
 
-MODEL_PATH = os.path.join(ROOT_DIR, "best_model.pth")
+MODEL_PATH = os.path.join(BASE_DIR, "best_model.pth")
 LABELS_PATH = os.path.join(BASE_DIR, "labels.txt")
 BREED_INFO_PATH = os.path.join(BASE_DIR, "breed_info.json")
+
 
 # -----------------------------
 # LOAD LABELS
@@ -89,4 +89,5 @@ if uploaded_image:
             st.subheader("📌 Market Information")
             st.json(breed_info[breed])
         else:
+
             st.warning("❗ No metadata found for this breed.")  
