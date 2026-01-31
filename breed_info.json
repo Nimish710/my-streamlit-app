@@ -1,0 +1,549 @@
+{
+  "Ayrshire": {
+    "origin": "Scotland",
+    "milk_yield": "20-30 liters/day",
+    "market_price": "₹1,20,000 - ₹2,00,000",
+    "maintenance_cost": "₹180-₹250/day",
+    "lactation_period": "250-300 days",
+    "profit_per_lactation": "₹55,000 - ₹85,000",
+    "description": "A hardy dairy breed known for high milk production and easy management.",
+    "best_states": ["Punjab", "Haryana", "UP"],
+    "demand": "High",
+
+    "milk_price": "₹40–₹55/litre",
+    "fat_percentage": "3.8%",
+    "nutrition": {
+      "calories": "64 kcal",
+      "fat": "3.8 g",
+      "protein": "3.2 g",
+      "carbohydrates": "4.7 g",
+      "calcium": "118 mg",
+      "vitamin_d": "1.0 µg",
+      "vitamin_b12": "0.45 µg",
+      "omega_3": "40 mg",
+      "minerals": "0.7 g"
+    }
+  },
+
+  "Bargur": {
+    "origin": "Tamil Nadu, India",
+    "milk_yield": "3-5 liters/day",
+    "market_price": "₹40,000 - ₹70,000",
+    "maintenance_cost": "₹120-₹150/day",
+    "lactation_period": "200-240 days",
+    "profit_per_lactation": "₹8,000 - ₹15,000",
+    "description": "A tough South Indian draught breed used for forest terrain.",
+    "best_states": ["Tamil Nadu", "Karnataka"],
+    "demand": "Medium",
+
+    "milk_price": "₹45–₹60/litre",
+    "fat_percentage": "4.2%",
+    "nutrition": {
+      "calories": "67 kcal",
+      "fat": "4.2 g",
+      "protein": "3.3 g",
+      "carbohydrates": "4.8 g",
+      "calcium": "120 mg",
+      "vitamin_d": "0.9 µg",
+      "vitamin_b12": "0.40 µg",
+      "omega_3": "42 mg",
+      "minerals": "0.72 g"
+    }
+  },
+
+  "Brown_Swiss": {
+    "origin": "Switzerland",
+    "milk_yield": "25-40 liters/day",
+    "market_price": "₹2,00,000 - ₹3,50,000",
+    "maintenance_cost": "₹220-₹280/day",
+    "lactation_period": "280-320 days",
+    "profit_per_lactation": "₹95,000 - ₹1,50,000",
+    "description": "Very strong dairy breed known for longevity and high milk solids.",
+    "best_states": ["Punjab", "Haryana", "Maharashtra"],
+    "demand": "High",
+
+    "milk_price": "₹45–₹65/litre",
+    "fat_percentage": "4.0%",
+    "nutrition": {
+      "calories": "66 kcal",
+      "fat": "4.0 g",
+      "protein": "3.4 g",
+      "carbohydrates": "4.9 g",
+      "calcium": "122 mg",
+      "vitamin_d": "1.2 µg",
+      "vitamin_b12": "0.47 µg",
+      "omega_3": "45 mg",
+      "minerals": "0.75 g"
+    }
+  },
+
+  "Gir": {
+    "origin": "Gujarat, India",
+    "milk_yield": "10-15 liters/day",
+    "market_price": "₹1,80,000 - ₹11,50,000",
+    "maintenance_cost": "₹150-₹220/day",
+    "lactation_period": "260-300 days",
+    "profit_per_lactation": "₹40,000 - ₹70,000",
+    "description": "Famous Indian breed known for heat tolerance and good milk yield.",
+    "best_states": ["Gujarat", "Rajasthan", "Maharashtra"],
+    "demand": "Very High",
+
+    "milk_price": "₹80–₹120/litre",
+    "fat_percentage": "4.5%",
+    "nutrition": {
+      "calories": "70 kcal",
+      "fat": "4.5 g",
+      "protein": "3.5 g",
+      "carbohydrates": "4.8 g",
+      "calcium": "125 mg",
+      "vitamin_d": "1.3 µg",
+      "vitamin_b12": "0.50 µg",
+      "omega_3": "55 mg",
+      "minerals": "0.78 g"
+    }
+  },
+  
+  "Guernsey": {
+    "origin": "Channel Islands",
+    "milk_yield": "20-30 liters/day",
+    "market_price": "₹1,50,000 - ₹2,50,000",
+    "maintenance_cost": "₹200-₹260/day",
+    "lactation_period": "260-310 days",
+    "profit_per_lactation": "₹70,000 - ₹1,10,000",
+    "description": "High-butterfat milk breed with gentle temperament.",
+    "best_states": ["Punjab", "Haryana"],
+    "demand": "Medium",
+
+    "milk_price": "₹55–₹80/litre",
+    "fat_percentage": "4.7%",
+    "nutrition": {
+      "calories": "72 kcal",
+      "fat": "4.7 g",
+      "protein": "3.5 g",
+      "carbohydrates": "4.9 g",
+      "calcium": "128 mg",
+      "vitamin_d": "1.4 µg",
+      "vitamin_b12": "0.52 µg",
+      "omega_3": "60 mg",
+      "minerals": "0.80 g"
+    }
+  },
+
+  "Hariana": {
+    "origin": "Haryana, India",
+    "milk_yield": "8-10 liters/day",
+    "market_price": "₹70,000 - ₹1,20,000",
+    "maintenance_cost": "₹150-₹180/day",
+    "lactation_period": "240-280 days",
+    "profit_per_lactation": "₹25,000 - ₹45,000",
+    "description": "Dual-purpose Indian breed used for both dairy and draught.",
+    "best_states": ["Haryana", "Delhi", "Rajasthan"],
+    "demand": "High",
+
+    "milk_price": "₹45–₹65/litre",
+    "fat_percentage": "4.2%",
+    "nutrition": {
+      "calories": "69 kcal",
+      "fat": "4.2 g",
+      "protein": "3.3 g",
+      "carbohydrates": "4.8 g",
+      "calcium": "122 mg",
+      "vitamin_d": "1.0 µg",
+      "vitamin_b12": "0.47 µg",
+      "omega_3": "50 mg",
+      "minerals": "0.75 g"
+    }
+  },
+
+  "HF": {
+    "origin": "Netherlands",
+    "milk_yield": "25-40 liters/day",
+    "market_price": "₹1,50,000 - ₹3,00,000",
+    "maintenance_cost": "₹230-₹300/day",
+    "lactation_period": "280-320 days",
+    "profit_per_lactation": "₹1,00,000 - ₹1,70,000",
+    "description": "World's highest milk-producing breed but requires high maintenance.",
+    "best_states": ["Punjab", "Maharashtra", "Karnataka"],
+    "demand": "Very High",
+
+    "milk_price": "₹35–₹50/litre",
+    "fat_percentage": "3.6%",
+    "nutrition": {
+      "calories": "62 kcal",
+      "fat": "3.6 g",
+      "protein": "3.2 g",
+      "carbohydrates": "4.9 g",
+      "calcium": "115 mg",
+      "vitamin_d": "0.9 µg",
+      "vitamin_b12": "0.42 µg",
+      "omega_3": "35 mg",
+      "minerals": "0.68 g"
+    }
+  },
+
+  "Jaffarabadi": {
+    "origin": "Gujarat, India",
+    "milk_yield": "12-18 liters/day",
+    "market_price": "₹1,50,000 - ₹2,50,000",
+    "maintenance_cost": "₹180-₹250/day",
+    "lactation_period": "270-320 days",
+    "profit_per_lactation": "₹60,000 - ₹1,00,000",
+    "description": "Largest buffalo breed known for high milk and power.",
+    "best_states": ["Gujarat", "Maharashtra"],
+    "demand": "Very High",
+
+    "milk_price": "₹80–₹120/litre",
+    "fat_percentage": "7.5%",
+    "nutrition": {
+      "calories": "105 kcal",
+      "fat": "7.5 g",
+      "protein": "4.2 g",
+      "carbohydrates": "5.0 g",
+      "calcium": "180 mg",
+      "vitamin_d": "1.6 µg",
+      "vitamin_b12": "0.60 µg",
+      "omega_3": "70 mg",
+      "minerals": "0.95 g"
+    }
+  },
+
+  "Jersey": {
+    "origin": "Jersey Island",
+    "milk_yield": "20-25 liters/day",
+    "market_price": "₹1,00,000 - ₹1,80,000",
+    "maintenance_cost": "₹180-₹240/day",
+    "lactation_period": "260-300 days",
+    "profit_per_lactation": "₹60,000 - ₹90,000",
+    "description": "Small, high milk-fat breed ideal for hot climates.",
+    "best_states": ["Tamil Nadu", "Karnataka", "Maharashtra"],
+    "demand": "High",
+
+    "milk_price": "₹50–₹70/litre",
+    "fat_percentage": "5.0%",
+    "nutrition": {
+      "calories": "78 kcal",
+      "fat": "5.0 g",
+      "protein": "3.4 g",
+      "carbohydrates": "4.7 g",
+      "calcium": "130 mg",
+      "vitamin_d": "1.2 µg",
+      "vitamin_b12": "0.48 µg",
+      "omega_3": "55 mg",
+      "minerals": "0.82 g"
+    }
+  },
+
+  "Kankrej": {
+    "origin": "Gujarat-Rajasthan region",
+    "milk_yield": "8-12 liters/day",
+    "market_price": "₹1,00,000 - ₹2,00,000",
+    "maintenance_cost": "₹140-₹200/day",
+    "lactation_period": "240-300 days",
+    "profit_per_lactation": "₹30,000 - ₹55,000",
+    "description": "Strong Indian breed used for dairy and draught, highly heat-tolerant.",
+    "best_states": ["Gujarat", "Rajasthan"],
+    "demand": "High",
+
+    "milk_price": "₹55–₹75/litre",
+    "fat_percentage": "4.3%",
+    "nutrition": {
+      "calories": "70 kcal",
+      "fat": "4.3 g",
+      "protein": "3.4 g",
+      "carbohydrates": "4.8 g",
+      "calcium": "125 mg",
+      "vitamin_d": "1.1 µg",
+      "vitamin_b12": "0.46 µg",
+      "omega_3": "52 mg",
+      "minerals": "0.77 g"
+    }
+  },
+
+  "Khillari": {
+    "origin": "Maharashtra, India",
+    "milk_yield": "3-6 liters/day",
+    "market_price": "₹60,000 - ₹1,00,000",
+    "maintenance_cost": "₹120-₹150/day",
+    "lactation_period": "220-260 days",
+    "profit_per_lactation": "₹10,000 - ₹20,000",
+    "description": "Famous drought and heat-tolerant Indian breed.",
+    "best_states": ["Maharashtra", "Karnataka"],
+    "demand": "Medium",
+
+    "milk_price": "₹50–₹65/litre",
+    "fat_percentage": "4.1%",
+    "nutrition": {
+      "calories": "66 kcal",
+      "fat": "4.1 g",
+      "protein": "3.2 g",
+      "carbohydrates": "4.7 g",
+      "calcium": "118 mg",
+      "vitamin_d": "1.0 µg",
+      "vitamin_b12": "0.43 µg",
+      "omega_3": "45 mg",
+      "minerals": "0.70 g"
+    }
+  },
+
+  "Krishna_Valley": {
+    "origin": "Karnataka-Maharashtra border",
+    "milk_yield": "8-12 liters/day",
+    "market_price": "₹90,000 - ₹1,50,000",
+    "maintenance_cost": "₹150-₹200/day",
+    "lactation_period": "240-290 days",
+    "profit_per_lactation": "₹25,000 - ₹45,000",
+    "description": "Dual-purpose draught and dairy breed with strong body structure.",
+    "best_states": ["Maharashtra", "Karnataka"],
+    "demand": "Medium",
+
+    "milk_price": "₹50–₹70/litre",
+    "fat_percentage": "4.0%",
+    "nutrition": {
+      "calories": "65 kcal",
+      "fat": "4.0 g",
+      "protein": "3.2 g",
+      "carbohydrates": "4.8 g",
+      "calcium": "119 mg",
+      "vitamin_d": "1.0 µg",
+      "vitamin_b12": "0.44 µg",
+      "omega_3": "48 mg",
+      "minerals": "0.71 g"
+    }
+  },
+
+  "Mehsana": {
+    "origin": "Gujarat, India",
+    "milk_yield": "10-16 liters/day",
+    "market_price": "₹1,00,000 - ₹2,00,000",
+    "maintenance_cost": "₹160-₹220/day",
+    "lactation_period": "260-300 days",
+    "profit_per_lactation": "₹40,000 - ₹70,000",
+    "description": "High-yield Indian buffalo breed developed from Surti and Murrah.",
+    "best_states": ["Gujarat", "MP"],
+    "demand": "Very High",
+
+    "milk_price": "₹70–₹110/litre",
+    "fat_percentage": "7.0%",
+    "nutrition": {
+      "calories": "102 kcal",
+      "fat": "7.0 g",
+      "protein": "4.0 g",
+      "carbohydrates": "5.0 g",
+      "calcium": "175 mg",
+      "vitamin_d": "1.5 µg",
+      "vitamin_b12": "0.58 µg",
+      "omega_3": "65 mg",
+      "minerals": "0.90 g"
+    }
+  },
+
+  "Murrah": {
+    "origin": "Haryana, India",
+    "milk_yield": "12-18 liters/day",
+    "market_price": "₹1,00,000 - ₹3,00,000",
+    "maintenance_cost": "₹180-₹250/day",
+    "lactation_period": "260-300 days",
+    "profit_per_lactation": "₹60,000 - ₹1,10,000",
+    "description": "India's most popular high-yield buffalo breed.",
+    "best_states": ["Haryana", "Punjab", "UP"],
+    "demand": "Very High",
+
+    "milk_price": "₹80–₹130/litre",
+    "fat_percentage": "7.8%",
+    "nutrition": {
+      "calories": "110 kcal",
+      "fat": "7.8 g",
+      "protein": "4.3 g",
+      "carbohydrates": "5.0 g",
+      "calcium": "185 mg",
+      "vitamin_d": "1.8 µg",
+      "vitamin_b12": "0.62 µg",
+      "omega_3": "75 mg",
+      "minerals": "1.0 g"
+    }
+  },
+
+  "Nagpuri": {
+    "origin": "Maharashtra, India",
+    "milk_yield": "5-8 liters/day",
+    "market_price": "₹70,000 - ₹1,20,000",
+    "maintenance_cost": "₹130-₹170/day",
+    "lactation_period": "230-260 days",
+    "profit_per_lactation": "₹15,000 - ₹25,000",
+    "description": "Heat-tolerant buffalo breed from Vidarbha region.",
+    "best_states": ["Maharashtra"],
+    "demand": "Medium",
+
+    "milk_price": "₹70–₹100/litre",
+    "fat_percentage": "7.0%",
+    "nutrition": {
+      "calories": "102 kcal",
+      "fat": "7.0 g",
+      "protein": "4.0 g",
+      "carbohydrates": "5.0 g",
+      "calcium": "170 mg",
+      "vitamin_d": "1.3 µg",
+      "vitamin_b12": "0.55 µg",
+      "omega_3": "66 mg",
+      "minerals": "0.92 g"
+    }
+  },
+
+  "Ongole": {
+    "origin": "Andhra Pradesh, India",
+    "milk_yield": "6-8 liters/day",
+    "market_price": "₹90,000 - ₹1,80,000",
+    "maintenance_cost": "₹150-₹200/day",
+    "lactation_period": "240-260 days",
+    "profit_per_lactation": "₹20,000 - ₹35,000",
+    "description": "World-famous Indian cattle known for strength and disease resistance.",
+    "best_states": ["Andhra Pradesh", "Tamil Nadu"],
+    "demand": "High",
+
+    "milk_price": "₹50–₹70/litre",
+    "fat_percentage": "4.1%",
+    "nutrition": {
+      "calories": "66 kcal",
+      "fat": "4.1 g",
+      "protein": "3.3 g",
+      "carbohydrates": "4.7 g",
+      "calcium": "118 mg",
+      "vitamin_d": "1.1 µg",
+      "vitamin_b12": "0.43 µg",
+      "omega_3": "48 mg",
+      "minerals": "0.70 g"
+    }
+  },
+
+  "Rathi": {
+    "origin": "Rajasthan, India",
+    "milk_yield": "6-10 liters/day",
+    "market_price": "₹70,000 - ₹1,30,000",
+    "maintenance_cost": "₹140-₹200/day",
+    "lactation_period": "250-280 days",
+    "profit_per_lactation": "₹20,000 - ₹35,000",
+    "description": "Indian dairy breed widely used for dairy in Rajasthan.",
+    "best_states": ["Rajasthan"],
+    "demand": "Medium",
+
+    "milk_price": "₹45–₹65/litre",
+    "fat_percentage": "4.0%",
+    "nutrition": {
+      "calories": "65 kcal",
+      "fat": "4.0 g",
+      "protein": "3.2 g",
+      "carbohydrates": "4.8 g",
+      "calcium": "118 mg",
+      "vitamin_d": "1.0 µg",
+      "vitamin_b12": "0.41 µg",
+      "omega_3": "45 mg",
+      "minerals": "0.69 g"
+    }
+  },
+
+  "Red_Sindhi": {
+    "origin": "Sindh region",
+    "milk_yield": "8-12 liters/day",
+    "market_price": "₹90,000 - ₹1,50,000",
+    "maintenance_cost": "₹150-₹200/day",
+    "lactation_period": "250-300 days",
+    "profit_per_lactation": "₹25,000 - ₹45,000",
+    "description": "Heat-tolerant dairy breed widely used for dairy.",
+    "best_states": ["Rajasthan", "Gujarat"],
+    "demand": "High",
+
+    "milk_price": "₹55–₹75/litre",
+    "fat_percentage": "4.5%",
+    "nutrition": {
+      "calories": "70 kcal",
+      "fat": "4.5 g",
+      "protein": "3.4 g",
+      "carbohydrates": "4.7 g",
+      "calcium": "120 mg",
+      "vitamin_d": "1.1 µg",
+      "vitamin_b12": "0.46 µg",
+      "omega_3": "52 mg",
+      "minerals": "0.74 g"
+    }
+  },
+
+  "Sahiwal": {
+    "origin": "Punjab region",
+    "milk_yield": "8-12 liters/day",
+    "market_price": "₹1,00,000 - ₹2,00,000",
+    "maintenance_cost": "₹150-₹200/day",
+    "lactation_period": "260-300 days",
+    "profit_per_lactation": "₹30,000 - ₹55,000",
+    "description": "Premium Indian dairy breed with high milk quality.",
+    "best_states": ["Punjab", "Haryana", "UP"],
+    "demand": "Very High",
+
+    "milk_price": "₹70–₹90/litre",
+    "fat_percentage": "4.8%",
+    "nutrition": {
+      "calories": "73 kcal",
+      "fat": "4.8 g",
+      "protein": "3.5 g",
+      "carbohydrates": "4.7 g",
+      "calcium": "130 mg",
+      "vitamin_d": "1.3 µg",
+      "vitamin_b12": "0.50 µg",
+      "omega_3": "58 mg",
+      "minerals": "0.80 g"
+    }
+  },
+
+  "Surti": {
+    "origin": "Gujarat, India",
+    "milk_yield": "6-10 liters/day",
+    "market_price": "₹70,000 - ₹1,30,000",
+    "maintenance_cost": "₹140-₹200/day",
+    "lactation_period": "230-280 days",
+    "profit_per_lactation": "₹30,000 - ₹50,000",
+    "description": "Small but efficient buffalo breed from South Gujarat.",
+    "best_states": ["Gujarat", "Maharashtra"],
+    "demand": "Medium",
+
+    "milk_price": "₹70–₹100/litre",
+    "fat_percentage": "6.8%",
+    "nutrition": {
+      "calories": "100 kcal",
+      "fat": "6.8 g",
+      "protein": "4.1 g",
+      "carbohydrates": "4.9 g",
+      "calcium": "170 mg",
+      "vitamin_d": "1.4 µg",
+      "vitamin_b12": "0.54 µg",
+      "omega_3": "65 mg",
+      "minerals": "0.90 g"
+    }
+  },
+
+  "Tharparkar": {
+    "origin": "Rajasthan-Sindh region",
+    "milk_yield": "8-14 liters/day",
+    "market_price": "₹90,000 - ₹1,50,000",
+    "maintenance_cost": "₹150-₹180/day",
+    "lactation_period": "250-280 days",
+    "profit_per_lactation": "₹25,000 - ₹32,000",
+    "description": "Heat-tolerant Indian breed widely used for dairy.",
+    "best_states": ["Rajasthan"],
+    "demand": "Medium",
+
+    "milk_price": "₹55–₹75/litre",
+    "fat_percentage": "4.3%",
+    "nutrition": {
+      "calories": "70 kcal",
+      "fat": "4.3 g",
+      "protein": "3.4 g",
+      "carbohydrates": "4.8 g",
+      "calcium": "125 mg",
+      "vitamin_d": "1.2 µg",
+      "vitamin_b12": "0.47 µg",
+      "omega_3": "53 mg",
+      "minerals": "0.76 g"
+    }
+  }
+}
+
+

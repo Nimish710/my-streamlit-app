@@ -1,0 +1,21 @@
+{
+    "0": "Ayrshire",
+    "1": "Bargur",
+    "2": "Brown_Swiss",
+    "3": "Gir",
+    "4": "Guernsey",
+    "5": "Hariana",
+    "6": "HF",
+    "7": "Jaffarabadi",
+    "8": "Jersey",
+    "9": "Kankrej",
+    "10": "Mehsana",
+    "11": "Murrah",
+    "12": "Nagpuri",
+    "13": "Ongole",
+    "14": "Rathi",
+    "15": "Red_Sindhi",
+    "16": "Sahiwal",
+    "17": "Surti",
+    "18": "Tharparkar"
+}
